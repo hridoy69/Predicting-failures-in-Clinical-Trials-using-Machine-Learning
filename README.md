@@ -37,6 +37,7 @@ or antagonists in any one or more Tox21 assays, were considered.
 
 # Web server
 
+The tool is available at https://acds.neist.res.in:8502/ and als in the Advanced Module of Molecular Property Diagnostic Suite - Covid 19 (https://mpds.neist.res.in:8085/)
 
 # Cite
 John, L., Mahanta, H. J., Soujanya, Y., & Sastry, G. N. (2023). Assessing machine learning approaches for predicting failures of investigational drug candidates during clinical trials. Computers in biology and medicine, 153, 106494.
